@@ -31,7 +31,7 @@ For example, an organization could pick one outcome from each of the Core functi
 4. **Respond**: Detected issues (or groups of issues) are documented and logged in central system along with non-accessibility issues.
 5. **Remediate**: Issues are remediated regularly.
 
-![](images/web-accessibility-framework-core.png)
+![Identify, Prevent, Detect Respond, and Remediate written along the outside of a donut chart.](images/web-accessibility-framework-core.png)
 
 With the outcomes selected, the organization can then go through the entire process for even just one piece of critical content.
 
