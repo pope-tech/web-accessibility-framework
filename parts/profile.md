@@ -1,6 +1,6 @@
 # The Web Accessibility Framework: Profiles
 
-[Home](../README.md) | [Core](core.md) | [Tiers](tiers.md)
+[Home](../) | [Core](core.md) | [Tiers](tiers.md)
 
 ## What is a Profile?
 
