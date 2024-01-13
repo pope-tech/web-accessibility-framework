@@ -26,6 +26,8 @@ For example, Asset Management is a category in the Identify function. Here are s
 
 Organizations can use the Core on its own to start improving accessibility right away or it can be used with Profiles and Tiers to build an even more comprehensive accessibility strategy.
 
+> [Example 1: Using only the Core](../examples/01_using_only_the_core.md) shows how the Core could be used.
+
 ## Who should use the Core?
 
 Any piece of The Web Accessibility Framework can be used on its own and adjusted to fit an organization’s needs.
