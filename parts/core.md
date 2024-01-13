@@ -4,7 +4,7 @@
 
 The Core is one of three pieces of The Web Accessibility framework.
 
-![Pie graphic with the three pieces of the Web Accessibility Framework: Core, Tiers, and Profile. Core is highlighted.](images/web-accessibility-framework-parts-core.png)
+![Pie graphic with the three pieces of the Web Accessibility Framework: Core, Tiers, and Profile. Core is highlighted.](../images/web-accessibility-framework-parts-core.png)
 
 It’s the foundation of the framework and is made up of five functions:
 
