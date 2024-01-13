@@ -13,7 +13,7 @@ The framework has three parts:
 
 1. [**Core**](parts/core.md): Core is a list of accessibility outcomes. Your organization customizes this list for its size and need. You’ll find accessibility opportunities and understand what actions to take toward improving accessibility.
 2. [**Tiers**](parts/tiers.md): Implementation tiers help you understand your organization’s current and desired state for responding to and managing web accessibility.
-3. [**Profiles**](parts/profiles.md): Profiles take an organization’s requirements, objectives, risk appetite, and resources and compare them with the desired outcomes of the Core. Profiles help identify opportunities for improving web accessibility by comparing a current profile with a target profile.
+3. [**Profiles**](parts/profile.md): Profiles take an organization’s requirements, objectives, risk appetite, and resources and compare them with the desired outcomes of the Core. Profiles help identify opportunities for improving web accessibility by comparing a current profile with a target profile.
 
 Organizations can use any combination of these framework pieces to help improve accessibility.
 
