@@ -36,3 +36,11 @@ For example, an organization could pick one outcome from each of the Core functi
 With the outcomes selected, the organization can then go through the entire process for even just one piece of critical content.
 
 The idea is it’s better to start small and get through each selected piece of Core once. This starts improving accessibility quickly while helping you learn how you’ll build accessibility into your organization’s structure.
+
+## Sources
+
+[How The Web Accessibility Framework was designed](https://blog.pope.tech/how-the-web-accessibility-framework-was-designed/)
+
+The Web Accessibility Framework is based off of the NIST Security Framework, adapted for website accessibility courtesy of the National Institute of Standards and Technology, U.S. Department of Commerce.
+
+Web Accessibility Framework © 2024 by Pope Tech is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
