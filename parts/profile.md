@@ -1,4 +1,8 @@
-# What is a Profile?
+# The Web Accessibility Framework: Profiles
+
+[Home](../README.md) | [Core](core.md) | [Tiers](tiers.md)
+
+## What is a Profile?
 
 Profiles help an organization understand the details of their current and desired accessibility environment. They help identify opportunities for improving web accessibility by comparing a "current" profile with a "target" profile.
 
